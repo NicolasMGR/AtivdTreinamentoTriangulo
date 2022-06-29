@@ -1,0 +1,11 @@
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\AtivdTreinamentoTriangulo\AtivdTreinamentoTriangulo\bin\Debug\AtivdTreinamentoTriangulo.exe.config
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\AtivdTreinamentoTriangulo\AtivdTreinamentoTriangulo\bin\Debug\AtivdTreinamentoTriangulo.exe
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\AtivdTreinamentoTriangulo\AtivdTreinamentoTriangulo\bin\Debug\AtivdTreinamentoTriangulo.pdb
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\AtivdTreinamentoTriangulo\AtivdTreinamentoTriangulo\obj\Debug\AtivdTreinamentoTriangulo.csproj.AssemblyReference.cache
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\AtivdTreinamentoTriangulo\AtivdTreinamentoTriangulo\obj\Debug\AtivdTreinamentoTriangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\AtivdTreinamentoTriangulo\AtivdTreinamentoTriangulo\obj\Debug\AtivdTreinamentoTriangulo.Form1.resources
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\AtivdTreinamentoTriangulo\AtivdTreinamentoTriangulo\obj\Debug\AtivdTreinamentoTriangulo.Properties.Resources.resources
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\AtivdTreinamentoTriangulo\AtivdTreinamentoTriangulo\obj\Debug\AtivdTreinamentoTriangulo.csproj.GenerateResource.cache
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\AtivdTreinamentoTriangulo\AtivdTreinamentoTriangulo\obj\Debug\AtivdTreinamentoTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\AtivdTreinamentoTriangulo\AtivdTreinamentoTriangulo\obj\Debug\AtivdTreinamentoTriangulo.exe
+C:\Users\nicolas.mgrodrigues1\OneDrive - SENAC - SP\Documentos\UC9\AtivdTreinamentoTriangulo\AtivdTreinamentoTriangulo\obj\Debug\AtivdTreinamentoTriangulo.pdb

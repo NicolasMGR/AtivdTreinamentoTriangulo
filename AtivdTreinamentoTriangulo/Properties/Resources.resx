@@ -118,10 +118,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="79b6a30c4cf7d295b0d312fcae3f8276" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\79b6a30c4cf7d295b0d312fcae3f8276.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="hqdefault" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hqdefault.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="c713e5fb5c694bd0d2ad526d3f060d51" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\c713e5fb5c694bd0d2ad526d3f060d51.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="79b6a30c4cf7d295b0d312fcae3f8276" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\79b6a30c4cf7d295b0d312fcae3f8276.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="meme-nazare-tedesco-1522676482199_615x300" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\meme-nazare-tedesco-1522676482199_615x300.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="6dvqxbgk7oxn4e2s7bkulenlx" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6dvqxbgk7oxn4e2s7bkulenlx.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

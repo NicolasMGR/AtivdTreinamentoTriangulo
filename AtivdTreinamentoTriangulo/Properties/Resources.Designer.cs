@@ -63,6 +63,16 @@ namespace AtivdTreinamentoTriangulo.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _6dvqxbgk7oxn4e2s7bkulenlx {
+            get {
+                object obj = ResourceManager.GetObject("6dvqxbgk7oxn4e2s7bkulenlx", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _79b6a30c4cf7d295b0d312fcae3f8276 {
             get {
                 object obj = ResourceManager.GetObject("79b6a30c4cf7d295b0d312fcae3f8276", resourceCulture);
@@ -76,6 +86,26 @@ namespace AtivdTreinamentoTriangulo.Properties {
         internal static System.Drawing.Bitmap c713e5fb5c694bd0d2ad526d3f060d51 {
             get {
                 object obj = ResourceManager.GetObject("c713e5fb5c694bd0d2ad526d3f060d51", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap hqdefault {
+            get {
+                object obj = ResourceManager.GetObject("hqdefault", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap meme_nazare_tedesco_1522676482199_615x300 {
+            get {
+                object obj = ResourceManager.GetObject("meme-nazare-tedesco-1522676482199_615x300", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
